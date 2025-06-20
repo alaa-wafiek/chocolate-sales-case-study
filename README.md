@@ -9,7 +9,7 @@ The dataset includes transactional records across countries, products, sales rep
 
 ---
 
-## 🧠 Business Goals
+## Business Goals
 
 - Understand top-selling products and high-performing countries
 - Identify the most and least efficient sales representatives
@@ -21,8 +21,8 @@ The dataset includes transactional records across countries, products, sales rep
 
 ## 🔍 Framework Used
 
-### ✅ OSEMN Framework
-### ✅ SMART Summary
+### OSEMN Framework
+### SMART Summary
 
 
 
@@ -42,4 +42,18 @@ The dataset includes transactional records across countries, products, sales rep
 - **Growth:** New Zealand showed the highest month-over-month revenue jump
 - **No Correlation:** Shipping more boxes ≠ higher revenue (Correlation ≈ -0.02)
 
+## Conclusion & Recommendations
+
+This project turned a raw sales dataset into a clear roadmap for better business decisions. Through SQL analysis and structured insights, we revealed:
+
+-  Jan, Jun, and Jul are peak revenue months — ideal for product launches
+-  A small number of reps and products drive a majority of revenue
+-  Australia and New Zealand show promising growth and deserve more investment
+- ⚠ A lack of correlation between boxes shipped and revenue challenges assumptions about volume-based selling
+
+### Recommendations:
+- Focus marketing and inventory on top 3 products
+- Reduce over-reliance on top salespeople by upskilling or hiring
+- Target high-growth regions (Australia, New Zealand) for campaigns
+- Use this dashboard/analysis as a template for future data-driven decisions
 
