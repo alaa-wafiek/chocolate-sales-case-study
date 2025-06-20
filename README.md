@@ -24,7 +24,7 @@ The dataset includes transactional records across countries, products, sales rep
 ### OSEMN Framework
 ### SMART Summary
 
-
+--
 
 ## 🛠 Tools Used
 
@@ -49,7 +49,7 @@ This project turned a raw sales dataset into a clear roadmap for better business
 -  Jan, Jun, and Jul are peak revenue months — ideal for product launches
 -  A small number of reps and products drive a majority of revenue
 -  Australia and New Zealand show promising growth and deserve more investment
-- ⚠ A lack of correlation between boxes shipped and revenue challenges assumptions about volume-based selling
+-  A lack of correlation between boxes shipped and revenue challenges assumptions about volume-based selling
 
 ### Recommendations:
 - Focus marketing and inventory on top 3 products
